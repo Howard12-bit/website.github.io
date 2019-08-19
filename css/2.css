@@ -2,7 +2,7 @@ body {margin: 0px}
 div.az { border-top:opx; font-size:60px; font-family:Uran; width:100%; body-background:yellow; border-style:solid; height:400px; background-image:url(fon.jpg)}
 div.av { text-align:center; font-size:55px; font-family:Comic Sans MS; margin: 0px 0px 0px 0px; height:1150px; background:yellow; background-image:url(fon.jpg)}
 div.ax { border-top:0; padding-left:15px; font-size:45px; font-family:Comic Sans MS; padding-top:0px; margin-top:0px; width:300px; height:1150px; border-style:solid; background:yellow; background-image:url(fon.jpg)}
-div.ab { text-indent:25px; padding-left:20px; padding-top:0px; font-size:40px; font-family:Comic Sans MS; margin: 0px 0px 0px 0px; height:1150px; background:yellow; background-image:url(fon.jpg)}
+div.ab { padding-left:20px; padding-top:0px; font-size:40px; font-family:Comic Sans MS; margin: 0px 0px 0px 0px; height:1150px; background:yellow; background-image:url(fon.jpg)}
 a {text-decoration:none; color:black}
 a:hover {color:red; text-decoration:underline}
 h1 {font-size:60px; text-align:center; text-decoration:underline}
