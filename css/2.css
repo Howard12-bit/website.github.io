@@ -14,4 +14,6 @@ h1:hover {color:red}
 @font-face {font-family:Uran; src:url(Uran.ttf)}
 @font-face {font-family:Comic; src:url(comic.ttf)}
 @media handheld and (color) 
-  body {font-size:20px}
+  body {
+    font-size:20px;
+}
