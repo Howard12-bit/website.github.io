@@ -8,7 +8,7 @@ div.ax::first-letter {color:red}
 a:link {text-decoration:none; color:black}
 a:visited {text-decoration:none; color:black}
 a:hover {color:red; text-decoration:underline}
-h1 {font-size:60px; text-align:center; text-decoration:underline}
+h1 {font-size:50px; text-align:center; text-decoration:underline}
 h1::first-letter {color:red}
 h1:hover {color:red}
 @font-face {font-family:Uran; src:url(Uran.ttf)}
