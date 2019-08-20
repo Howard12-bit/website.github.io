@@ -13,6 +13,4 @@ h1::first-letter {color:red}
 h1:hover {color:red}
 @font-face {font-family:Uran; src:url(Uran.ttf)}
 @font-face {font-family:Comic; src:url(comic.ttf)}
-@media handheld and (grid) and (max-width: 15em) {
-     body { font-size: 2em; }
-   }
+
